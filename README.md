@@ -6,4 +6,4 @@ A cli wordle written in golang. Will need internet connection to first pull the 
 
 ## Run
 
-    - 'go run main.go'
+    'go run main.go'
